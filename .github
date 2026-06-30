@@ -1,1 +1,10 @@
+ISSUE_TEMPLATE/
 
+bug_report.md
+article_request.md
+seo_task.md
+
+workflows/
+
+seo.yml
+markdown.yml
