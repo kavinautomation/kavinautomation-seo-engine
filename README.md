@@ -27,4 +27,4 @@ An SEO and content marketing project for https://kavinautomation.com
 - Markdown
 - Python
 - GitHub Actions
-- JSON-LD
+- JSON-LD 
